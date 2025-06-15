@@ -1,8 +1,0 @@
-nn	delta	vis1     vis2	Fr	r1   r2  
-512 	4.0d-4  1.8d-3   0.0	0.05	1.0 0.01
-maxiter   nrun   navg	Torque_sed
-200000      1    50   -2.362750
-forcing		fixed_energy1		fixed_energy2		fixed_energy3
-.true.		0.8d0		         0.8d0			0.0d0
-particl		nprtcl		nstokes		nrunpart    ngamma
-.false.		1000000 	10		1           1
